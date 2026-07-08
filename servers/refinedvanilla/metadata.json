@@ -3,33 +3,30 @@
     "name": "RefinedVanilla",
     "description": "A refined Minecraft experience.",
     "addresses": [
-        "play.refinedvanilla.com"
+        "refinedvanilla.net",
+        "useast.refinedvanilla.net",
+        "uswest.refinedvanilla.net"
     ],
-    "primaryAddress": "play.refinedvanilla.com",
+    "primaryAddress": "refinedvanilla.net",
     "minecraftVersions": [
-        "1.20.*"
+        "1.21.11-26.2"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "26.2",
     "primaryColor": "#FFFFFF",
     "secondaryColor": "#000000",
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
     "gameTypes": [
-        "Survival"
+        "Semi-anarchy"
     ],
-    "primaryGameType": "Survival",
-    "website": "https://refinedvanilla.com",
-    "compliance": {
-        "privacyPolicy": "https://refinedvanilla.com/privacy",
-        "termsOfService": "https://refinedvanilla.com/terms",
-        "rules": "https://refinedvanilla.com/rules"
-    },
+    "primaryGameType": "Semi-anarchy",
+    "website": "https://www.refinedvanilla.net",
     "socials": {
         "discord": "https://discord.gg/refinedvanilla"
     },
